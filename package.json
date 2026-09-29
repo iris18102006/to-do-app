@@ -1,0 +1,18 @@
+{
+  "name": "tasklane",
+  "version": "1.0.0",
+  "description": "A small, fast to-do app with lists, priorities, due dates and notes.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
+  }
+}

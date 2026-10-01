@@ -62,4 +62,4 @@ Tasks and lists are stored under the `todo-ts-v2` key in `localStorage`. Clearin
 
 ## License
 
-MIT, see [LICENSE](LICENSE). 
+MIT, see [LICENSE](LICENSE).
